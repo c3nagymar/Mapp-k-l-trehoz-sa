@@ -1,0 +1,1 @@
+Ram, Processzor, Alaplap, Videókártya (valamely esetben a processzorba van beépítve), HDD/SSD, Tápegység

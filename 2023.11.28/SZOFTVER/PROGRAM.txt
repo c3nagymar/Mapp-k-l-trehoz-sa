@@ -1,0 +1,1 @@
+Excel .xls, Word .doc, PowerPoint .pptx, Notepad .txt, Paint .png .bmp .jpeg
